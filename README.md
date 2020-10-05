@@ -1,4 +1,4 @@
-# Iconicons: ID Naming Issue
+# Ionicons: ID Naming Issue
 
 Particular group IDs prevent icons from rendering.
 
